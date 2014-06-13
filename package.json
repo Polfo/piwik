@@ -1,0 +1,5 @@
+{
+    "name": "piwik",
+    "version": "2.0",
+    "description": "A npm package for the entire piwik program"
+}
