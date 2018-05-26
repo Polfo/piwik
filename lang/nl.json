@@ -145,7 +145,7 @@
         "MenuGeneralSettings": "Algemene instellingen",
         "MenuManage": "Beheer",
         "OptOutComplete": "Opt-out ingesteld; Uw bezoeken aan deze website zullen niet worden geregistreerd in de Web Analytics tool.",
-        "OptOutCompleteBis": "Als u uw cookies verwijderd, de opt-out cookie verwijderd of wisselt van computer of webbrowser, dan zult u deze opt-out procedure opnieuw moeten uitvoeren.",
+        "OptOutCompleteBis": "Als u uw cookies verwijdert, de opt-out cookie verwijdert of wisselt van computer of webbrowser, dan zult u deze opt-out procedure opnieuw moeten uitvoeren.",
         "OptOutExplanation": "Piwik is ingericht om de privacy op internet te respecteren. U kunt uw bezoekers de keuze opting-out van Piwik Web Analytics aanbieden. Daartoe kunt u de volgende HTML-code toevoegen aan één van uw webpagina's, bijvoorbeeld op een pagina met de Privacy Policy.",
         "OptOutExplanationBis": "Deze code zal een I-frame tonen met daarin een link naar de opt-out van Piwik door een opt-out cookie te plaatsen in hun browser. %s Klik hier%s om de tekst te bekijken die in het I-frame getoond zal worden.",
         "OptOutForYourVisitors": "Piwik opt-out voor uw bezoekers",
